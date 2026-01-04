@@ -6,7 +6,7 @@ This project implements a deep learning pipeline for simultaneous **instance seg
 
 | Metric | Score |
 | :--- | :--- |
-| **Private Dataset Leaderboard Rank** | **2nd Place** 🥈 |
+| **Private Dataset Leaderboard Rank** | **2nd Place** |
 | **Weighted Panoptic Quality (wPQ)** | **0.68** |
 
 ---
@@ -78,5 +78,4 @@ The primary metric used is **Weighted Panoptic Quality (wPQ)**.
 
 ```
 wPQ = (Σ (PQ_c * weight_c)) / (Σ weight_c)
-
 ```
